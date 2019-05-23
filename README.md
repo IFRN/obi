@@ -18,8 +18,7 @@ podem ser resolvidas com uma linguagem de programação entre Python, C, C++, Ja
 
 ### Níveis
 
- - **Nível Júnior**, para alunos até o nono ano do ensino fundamental (alunos de anos anteriores também podem participar),
-
- - **Nível 1**, para alunos até o primeiro ano do Ensino Médio (alunos do Ensino Fundamental também podem participar) e
- - **Nível 2**, para alunos até o terceiro ano do ensino médio (alunos de anos anteriores também podem participar).
+ - **Nível Júnior**, para alunos até o nono ano do ensino fundamental
+ - **Nível 1**, para alunos até o primeiro ano do Ensino Médio
+ - **Nível 2**, para alunos até o terceiro ano do ensino médio
  - **Nível Sênior**, para alunos do quarto ano do Ensino Técnico e alunos cursando pela primeira vez o primeiro ano de um curso de graduação.
