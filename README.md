@@ -7,7 +7,7 @@
 [![Inscrições](inscricao.png)](https://docs.google.com/forms/d/e/1FAIpQLSfHifbEHL11Po0oS84bF5OkAGA3Y0LSkKaoV3aa3cnArc4VZA/viewform)
 
 ### Informações
- - **Data**: 30/05/2019
+ - **Data**: 30/05/2019 (Quinta-feira)
  - **Horario**: 9h00 ~ 11h00
  - **Local**: DIATINF (CNAT)
  - **Site**: http://olimpiada.ic.unicamp.br
