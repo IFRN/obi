@@ -1,6 +1,8 @@
 # Olimpíada Brasileira de Informática 2019
 
-## Primeira Fase - IFRN - Campus Natal-Central
+**IFRN - Campus Natal-Central**
+
+## Primeira Fase
 
 [![Inscrições](inscricao.png)](https://docs.google.com/forms/d/e/1FAIpQLSfHifbEHL11Po0oS84bF5OkAGA3Y0LSkKaoV3aa3cnArc4VZA/viewform)
 
