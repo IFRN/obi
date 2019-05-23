@@ -10,7 +10,7 @@
  - **Data**: 30/05/2019 (Quinta-feira)
  - **Horario**: 9h00 ~ 11h00
  - **Local**: DIATINF (CNAT)
- - **Site**: http://olimpiada.ic.unicamp.br
+ - **Site**: [olimpiada.ic.unicamp.br](http://olimpiada.ic.unicamp.br)
 
 ### Modalidade Programação
 Na Modalidade Programação as provas são feitas no computador, com tarefas de programação que 
