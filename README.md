@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Informática 2019
+# Olimpíada Brasileira de Informática (OBI) 2019
 
 **IFRN - Campus Natal-Central**
 
