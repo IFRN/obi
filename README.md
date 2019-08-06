@@ -4,6 +4,11 @@
 
 ## Segunda Fase
 
+### Informações
+ - **Data**: 14/08/2019 (Quarta-feira)
+ - **Horario**: 14h00 ~ 16h00
+ - **Local**: DIATINF (CNAT)
+
 ### Confira os classificados
 
 | Inscrição	| Competidor	| Modalidade	|
