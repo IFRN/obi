@@ -2,6 +2,25 @@
 
 **IFRN - Campus Natal-Central**
 
+## Segunda Fase
+
+### Confira os classificados
+
+| Inscrição	| Competidor	| Modalidade	|
+| -- | -- | -- |
+| 65976-I	| Ueniry Felipe Dantas do Rêgo	| P1 |
+| 50495-B	| Ana Beatriz Ribeiro Soares	| P2 |
+| 50489-B	| Klaus Augustus Ramos Reiniger	| P2 |
+| 50491-J	| Luca Dantas de Britto Monte Araújo	| P2 |
+| 50496-E	| Luís Eduardo de Brito Câmara	| P2 |
+| 50497-H	| Marcos Arthur da Silva Melo	| P2 |
+| 50499-D	| Paulo Daniel Carvalho de Souza	| P2 |
+| 64806-B	| Pedro Paulo Lucas de Lira	| P2 |
+| 50494-I	| Victor Medeiros Rebouças	| P2 |
+| 50486-C	| João Victor Xavier de Freitas	| PS |
+| 50487-F	| Kallil Souza dos Santos	| PS |
+| 65988-G	| Rafael Oliveira Canuto	| PS |
+
 ## Primeira Fase
 
 [![Inscrições](inscricao.png)](https://docs.google.com/forms/d/e/1FAIpQLSfHifbEHL11Po0oS84bF5OkAGA3Y0LSkKaoV3aa3cnArc4VZA/viewform)
