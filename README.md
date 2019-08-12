@@ -6,8 +6,8 @@
 
 ### Informações
  - **Data**: 14/08/2019 (Quarta-feira)
- - **Horario**: 14h00 ~ 16h00
- - **Local**: DIATINF (CNAT)
+ - **Horario**: 14h30 ~ 16h30
+ - **Local**: Lab 04 - DIATINF (CNAT)
 
 ### Confira os classificados
 
